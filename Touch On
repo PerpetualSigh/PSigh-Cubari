@@ -8,10 +8,8 @@
       "84": {
         "title": "Chapter 84",
         "volume": "1",
-        "groups": {
-          "PerpetualSigh": [
-            "/proxy/api/imgur/chapter/pQ8waIP/"
-          ]
+      "groups": {
+        "PerpetualSigh": "/proxy/api/imgur/chapter/pQ8waIP/"
         },
         "last_updated": "1030310721"
       }
