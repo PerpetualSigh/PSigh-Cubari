@@ -7,7 +7,7 @@
 	"chapters": {
       "84": {
         "title": "Chapter 84",
-        "volume": "1",
+        "volume": "3",
       "groups": {
         "PerpetualSigh": "/proxy/api/imgur/chapter/pQ8waIP/"
         },
@@ -15,11 +15,19 @@
       },
          "85": {
       "title": "Chapter 85",
-      "volume": "1",
+      "volume": "3",
       "groups": {
         "PerpetualSigh": "/proxy/api/imgur/chapter/DgMrzqP/"
       },
-      "last_updated": "1030310721"
-    }
+      "last_updated": "1042310721"
+    },
+       "86": {
+      "title": "Chapter 86",
+      "volume": "3",
+      "groups": {
+        "PerpetualSigh": "/proxy/api/imgur/chapter/p4UeCMO/"
+      },
+      "last_updated": "1048310721"
+    },
     }
 }
