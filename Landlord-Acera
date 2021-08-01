@@ -36,6 +36,22 @@
         "Acera the Great": "/proxy/api/imgur/chapter/TtgzpNI/"
       },
       "last_updated": "1625846400"
+                  },
+         "176": {
+      "title": "Chapter 176",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/2JHRQa3/"
+      },
+      "last_updated": "1625244360"
+                  },
+         "175": {
+      "title": "Chapter 175",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/ShOGLOt/"
+      },
+      "last_updated": "1624996740"
      }
     }
 }
