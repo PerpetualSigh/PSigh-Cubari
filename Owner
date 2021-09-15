@@ -117,13 +117,21 @@
       },
       "last_updated": "1629477360"
                                           },
-         "184": {
-      "title": "Chapter 184",
+         "185": {
+      "title": "Chapter 185",
       "volume": "2",
       "groups": {
-        "Acera the Great": "/proxy/api/imgur/chapter/D2Rtn0v/"
+        "Acera the Great": "/proxy/api/imgur/chapter/aVx21LV/"
       },
-      "last_updated": "1630084767"
+      "last_updated": "1630686180"
+                                                },
+         "186": {
+      "title": "Chapter 186",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/14K7TfF/"
+      },
+      "last_updated": "1631292000"
      }
     }
 }
