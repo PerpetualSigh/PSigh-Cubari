@@ -93,13 +93,21 @@
       },
       "last_updated": "1632032817"
                                                      },
-         "92.5": {
+         "92.1": {
       "title": "Komm, Süsser Joke",
       "volume": "3",
       "groups": {
         "PerpetualSigh": "/proxy/api/imgur/chapter/u99exPq/"
       },
       "last_updated": "1632036960"
+                                                           },
+         "92.5": {
+      "title": "Hiatus Notice",
+      "volume": "3",
+      "groups": {
+        "PerpetualSigh": "/proxy/api/imgur/chapter/LC0WkWh/"
+      },
+      "last_updated": "1632490953"
      }
     }
 }
