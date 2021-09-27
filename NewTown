@@ -1,0 +1,17 @@
+{
+	"title": "New Town (English, MEH)",
+        "description": ""Teacher... Is it possible to have more classes together?" Study book teacher Himchan has moved to a dense new city, filled with bored married women. There won't be a quiet day for him from now on!",
+	"author": "Lee Wan",
+	"artist": "Kim Suna",
+	"cover": "https://i.imgur.com/eSfzQdu.png",
+	"chapters": {
+      "1": {
+        "title": "Chapter 1",
+        "volume": "1",
+      "groups": {
+        "MEH": "/proxy/api/imgur/chapter/1rNXoff/"
+        },
+        "last_updated": "1632772552"
+     }
+    }
+}
