@@ -15,11 +15,19 @@
       },
          "142.5": {
       "title": "Long-Term Hiatus",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/ZFCci8x/"
       },
       "last_updated": "1627480380"
+            },
+         "143": {
+      "title": "Chapter 143",
+      "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/lE0guaf/"
+      },
+      "last_updated": "1632931317"
            }
     }
 }
