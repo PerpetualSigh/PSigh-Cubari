@@ -1,0 +1,25 @@
+{
+	"title": "That Man's Room (English, Acera the Great)",
+        "description": "Contrary to his appearance, Kang-rim is a pure-hearted man. He has an affair with his noona Hyemi in his bedroom. Afterward, he passionately courts Hyemi to no avail, but she makes a surprising offer: To teach him all she can about sex. Can Kang-rim keep up with his experienced partners?",
+	"author": "Active Volcano",
+	"artist": "Kim PD",
+	"cover": "https://i.imgur.com/Ak5i39L.png",
+	"chapters": {
+      "142": {
+        "title": "Chapter 142",
+        "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/zWByavg/"
+        },
+        "last_updated": "1627139760"
+      },
+         "142.5": {
+      "title": "Long-Term Hiatus",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/ZFCci8x/"
+      },
+      "last_updated": "1627480380"
+           }
+    }
+}
