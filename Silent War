@@ -1,0 +1,33 @@
+{
+	"title": "Silent War (English, Acera the Great)",
+  "description": "Hyun makes money via sports betting for Gunner, a tyrannical gang leader. He wants to escape from it all, but is too afraid. However, things start to change when Mia, the girl of his dreams, approaches him…",	
+  "author": "Tharchog",
+  "artist": "Yansae",
+	"cover": "https://i.imgur.com/Ygu2QUP.png",
+	"chapters": {
+      "144": {
+        "title": "Chapter 144",
+        "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/XZcFkTg/"
+        },
+        "last_updated": "1634055720"
+      },
+         "143": {
+      "title": "Chapter 143",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/4u2IWvv/"
+      },
+      "last_updated": "1633455780"
+            },
+         "142": {
+      "title": "Chapter 142",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/kUcyKb0/"
+      },
+      "last_updated": "1632248760"
+      }
+    }
+}
