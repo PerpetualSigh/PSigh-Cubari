@@ -1,9 +1,9 @@
 {
 	"title": "The Neighbor Noona (English, Acera the Great)",
-  "description": "Jiho and Hyemi grew up like siblings, along with Hyemi's best friend Dahee. The three were enjoying their daily lives in a small home. Then one day, Jiho introduces Dahee as his girlfriend at a friend's provocation…",	
-  "author": "Tharchog",
-  "artist": "Kyun",
-	"cover": "https://i.imgur.com/Ygu2QUP.png",
+	"description": "Jiho and Hyemi grew up like siblings, along with Hyemi's best friend Dahee. The three were enjoying their daily lives in a small home. Then one day, Jiho introduces Dahee as his girlfriend at a friend's provocation…",	
+  	"author": "Tharchog",
+  	"artist": "Kyun",
+	"cover": "https://i.imgur.com/v0WtW6P.png",
 	"chapters": {
       "150": {
         "title": "Chapter 150",
@@ -25,7 +25,7 @@
       "title": "Chapter 148",
       "volume": "2",
       "groups": {
-        "Acera the Great": "/proxy/api/imgur/chapter/ZYaRDc8/"
+        "Acera the Great": "/proxy/api/imgur/chapter/jEY0paK/"
       },
       "last_updated": "1632622560"
       }
