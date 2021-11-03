@@ -1,14 +1,14 @@
 {
 	"title": "Overflowing with Water (English, SaxoSeal)",
-  "description": "Water starts leaking in the apartment building of Byung-Jin, forcing him and everyone else who lived there to live on the top floor together.",
+  	"description": "Water starts leaking in the apartment building of Byung-Jin, forcing him and everyone else who lived there to live on the top floor together. What will Byung-Jin do now that he's surrounded by many beautiful women...?",
 	"artist": "SUN",
 	"author": "Imstar",
 	"cover": "https://i.imgur.com/sqU01qq.png",
 	"chapters": {
-      "37": {
+     	"37": {
         "title": "Chapter 37",
         "volume": "3",
-      "groups": {
+     	"groups": {
         "SaxoSeal": "/proxy/api/imgur/chapter/sDxR8kj/"
         },
         "last_updated": "1635929340"
