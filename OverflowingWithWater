@@ -1,0 +1,17 @@
+{
+	"title": "Touch to Unlock (English, SaxoSeal)",
+  "description": "Water starts leaking in the apartment building of Byung-Jin, forcing him and everyone else who lived there to live on the top floor together.",
+	"artist": "SUN",
+	"author": "Imstar",
+	"cover": "https://i.imgur.com/sqU01qq.png",
+	"chapters": {
+      "37": {
+        "title": "Chapter 37",
+        "volume": "3",
+      "groups": {
+        "PerpetualSigh": "/proxy/api/imgur/chapter/pQ8waIP/"
+        },
+        "last_updated": "1635929220"
+             }
+    }
+}
