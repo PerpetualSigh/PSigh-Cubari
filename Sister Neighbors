@@ -7,7 +7,7 @@
 	"chapters": {
       "150": {
         "title": "Chapter 150",
-        "volume": "2",
+        "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/iPliN9Z/"
         },
@@ -15,7 +15,7 @@
       },
          "149": {
       "title": "Chapter 149",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/sQRA98X/"
       },
@@ -23,7 +23,7 @@
             },
          "148": {
       "title": "Chapter 148",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/jEY0paK/"
       },
@@ -31,7 +31,7 @@
                   },
          "151": {
       "title": "Chapter 151",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "PerpetualSigh": "/proxy/api/imgur/chapter/NUNGFh9/"
       },
@@ -39,7 +39,7 @@
                         },
          "152": {
       "title": "Chapter 152",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/oIFF0q5/"
       },
@@ -47,11 +47,27 @@
                               },
          "153": {
       "title": "Chapter 153",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/LGXKg3t/"
       },
       "last_updated": "1635604489"
+                                    },
+         "154": {
+      "title": "Chapter 154",
+      "volume": "1",
+      "groups": {
+        "MagicMan/PerpetualSigh": "/proxy/api/imgur/chapter/ofTHx8W/"
+      },
+      "last_updated": "1637470077"
+                                          },
+         "155": {
+      "title": "Chapter 155",
+      "volume": "1",
+      "groups": {
+        "MagicMan/PerpetualSigh": "/proxy/api/imgur/chapter/v3TdbQh/"
+      },
+      "last_updated": "1637439720"
       }
     }
 }
