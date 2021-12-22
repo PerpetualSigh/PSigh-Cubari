@@ -1036,6 +1036,30 @@
         "Acera the Great": "/proxy/api/imgur/chapter/Vl0Gvur/"
       },
       "last_updated": "1637345280"
+                           },
+         "196": {
+      "title": "Chapter 196",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/HTsl14j/"
+      },
+      "last_updated": "1638479520"
+                                 },
+         "197": {
+      "title": "Chapter 197",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/7OOFSTr/"
+      },
+      "last_updated": "1638546780"
+                                 },
+         "198": {
+      "title": "Chapter 198",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/2LmZtoJ/"
+      },
+      "last_updated": "1640157480"
      }
     }
 }
