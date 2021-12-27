@@ -106,8 +106,14 @@
       "volume": "1",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/vbOy13o/"
+	                         },
+         "154": {
+      "title": "Chapter 154",
+      "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/XVjNWB1/"
       },
-      "last_updated": "1638987120"
+      "last_updated": "1640564580"
            }
     }
 }
