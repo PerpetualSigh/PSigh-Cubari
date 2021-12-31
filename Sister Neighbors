@@ -100,6 +100,30 @@
         "Acera the Great": "/proxy/api/imgur/chapter/TbK5HBW/"
       },
       "last_updated": "1632018840"
+                                                },
+         "154": {
+      "title": "Chapter 154",
+      "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/LjdioKe/"
+      },
+      "last_updated": "1640912249"
+                                                      },
+         "155": {
+      "title": "Chapter 155",
+      "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/UmQCgEu/"
+      },
+      "last_updated": "1640912249"
+                                                      },
+         "156": {
+      "title": "Chapter 156",
+      "volume": "1",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/ywDoGf1/"
+      },
+      "last_updated": "1640912249"
       }
     }
 }
