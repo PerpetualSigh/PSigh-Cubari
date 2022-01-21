@@ -1100,6 +1100,14 @@
         "Acera the Great": "/proxy/api/imgur/chapter/GQUrUoW/"
       },
       "last_updated": "1642477080"
+                                                                     },
+         "204": {
+      "title": "Chapter 204",
+      "volume": "2",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/F5vLzrK/"
+      },
+      "last_updated": "1642786860"
      }
     }
 }
