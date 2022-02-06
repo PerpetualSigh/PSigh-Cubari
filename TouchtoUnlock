@@ -229,13 +229,21 @@
       },
       "last_updated": "1642202896"
                                                                         },
-      "108": {
+      "108.1": {
       "title": "Epilogue (Ye Rina)",
       "volume": "3",
       "groups": {
       "PerpetualSigh": "/proxy/api/imgur/chapter/eH9DDZF/"
       },
       "last_updated": "1644079235"
+                                                                              },
+      "108.2": {
+      "title": "Epilogue (Dr. Yeon Ji-Won)",
+      "volume": "3",
+      "groups": {
+      "PerpetualSigh": "/proxy/api/imgur/chapter/HHwnRo0/"
+      },
+      "last_updated": "1644159309"
      }
     }
 }
