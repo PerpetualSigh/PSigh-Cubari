@@ -1,18 +1,27 @@
-
 {
-	"title": "Understanding of Flirting (English, Acera the Great)",
-        "description": "They say there's no friends between men and women... Hojun and Yooha were close friends, and did not see each other as a man and woman. However, the day before Hojun's enlistment, Yooha suddenly kissed him. 'We're not lovers, but we've been dating. How can you say it's nothing?!'",
-	"author": "Kim Tan-tan",
-	"artist": "STUDIO A",
-	"cover": "https://i.imgur.com/gu0bjPE.png",
-	"chapters": {
-      "1": {
-        "title": "Chapter 1",
-        "volume": "1",
+  "title": "Understanding of Flirting (English, Acera the Great)",
+  "description": "They say there's no friends between men and women... Hojun and Yooha were close friends, and did not see each other as a man and woman. However, the day before Hojun's enlistment, Yooha suddenly kissed him. 'We're not lovers, but we've been dating. How can you say it's nothing?!'",
+  "artist": "STUDIO A",
+  "author": "Kim Tan-tan",
+  "cover": "https://i.imgur.com/gu0bjPE.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1644255960",
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/WsQNXSs/"
-        },
-        "last_updated": "1644255960"
-             }
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1644439860",
+      "groups": {
+        "Acera the Great": [
+          "https://imgur.com/a/7zjzfmo"
+        ]
+      }
     }
+  }
 }
