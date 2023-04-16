@@ -11,7 +11,7 @@
       "groups": {
         "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgur/chapter/RWlKoxk/"
         },
-        "last_updated": "1666854000"
+        "last_updated": "1681563900"
 	      	      },
          "28": {
       "title": "Chapter 28",
@@ -28,6 +28,14 @@
         "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgur/chapter/plVXmla/"
       },
       "last_updated": "1681588692"
+      	      	      },
+         "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgur/chapter/NeRH4Gg/"
+      },
+      "last_updated": "1681640162"
       }
     }
 }
