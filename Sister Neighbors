@@ -13,14 +13,6 @@
         },
         "last_updated": "1681563900"
 	      	      },
-         "28": {
-      "title": "Chapter 28",
-      "volume": "1",
-      "groups": {
-        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/wCBq17F5Wb/"
-      },
-      "last_updated": "1681585141"
-      	      	      },
          "2": {
       "title": "Chapter 2",
       "volume": "1",
@@ -37,14 +29,6 @@
       },
       "last_updated": "1681640162"
             	      	      },
-         "29": {
-      "title": "Chapter 29",
-      "volume": "1",
-      "groups": {
-        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/uUkr87D0ol/"
-      },
-      "last_updated": "1681632864"
-      },
          "4": {
       "title": "Chapter 4",
       "volume": "1",
@@ -69,6 +53,38 @@
       },
       "last_updated": "1682876400"
                   },
+	"7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/oes6YQ4ge4/"
+      },
+      "last_updated": "1682885197"
+                  },		  
+	"27": {
+      "title": "Chapter 27",
+      "volume": "1",
+      "groups": {
+        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/uCuXWe9byM/"
+      },
+      "last_updated": "1682004837"
+                                    },
+	"28": {
+      "title": "Chapter 28",
+      "volume": "1",
+      "groups": {
+        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/wCBq17F5Wb/"
+      },
+      "last_updated": "1681585141"
+      	      	      },
+         "29": {
+      "title": "Chapter 29",
+      "volume": "1",
+      "groups": {
+        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/uUkr87D0ol/"
+      },
+      "last_updated": "1681632864"
+      },
          "30": {
       "title": "Chapter 30",
       "volume": "1",
@@ -85,14 +101,6 @@
       },
       "last_updated": "1681941810"
                               },
-         "27": {
-      "title": "Chapter 27",
-      "volume": "1",
-      "groups": {
-        "Aksy Scanlations/PerpetualSigh": "/proxy/api/imgbox/chapter/uCuXWe9byM/"
-      },
-      "last_updated": "1682004837"
-                                    },
          "32": {
       "title": "Chapter 32",
       "volume": "1",
